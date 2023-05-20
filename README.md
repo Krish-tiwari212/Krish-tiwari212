@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krish</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/i_K3zWsgcG8AAAAi/hacker-pepe.gif">
+<img align="right" alt="Coding" src="https://media.tenor.com/i_K3zWsgcG8AAAAi/hacker-pepe.gif">
 
 - 🔭 I’m currently working on [newonlineshop](https://github.com/Krish-tiwari212/newonlineshop)
 
