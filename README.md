@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krish</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
+(img align="right" alt="Coding" width="400" src="https://tenor.com/view/hacker-pepe-santa-christmas-holiday-gif-20528522")
 
 - 🔭 I’m currently working on [newonlineshop](https://github.com/Krish-tiwari212/newonlineshop)
 
