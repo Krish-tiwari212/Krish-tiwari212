@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krish</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">A passionate Full Stack developer</h3>
 <img align="right" alt="Coding" src="https://media.tenor.com/i_K3zWsgcG8AAAAi/hacker-pepe.gif">
-
-- 🔭 I’m currently working on [newonlineshop](https://github.com/Krish-tiwari212/newonlineshop)
-
-- 🌱 I’m currently learning **The Complete Data Structures and Algorithms Course in Python**
 
 - 📝 I regularly write articles on [https://krish-blog.onrender.com/](https://krish-blog.onrender.com/)
 
