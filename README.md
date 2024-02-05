@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Krish Tiwari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" src="https://i.imgur.com/hDOfuOx.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krish-tiwari212&label=Profile%20views&color=0e75b6&style=flat" alt="krish-tiwari212" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krish-tiwari212" alt="krish-tiwari212" /></a> </p>
+<img align="right" src="https://i.imgur.com/1uYroRF.gif" style="margin-bottom: 15rem" alt="coding" />
 
 - 🔭 I’m currently working on [Jivan Health](https://jivanhealth.in/)
 
