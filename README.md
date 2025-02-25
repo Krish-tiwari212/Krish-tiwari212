@@ -5,18 +5,14 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krish-tiwari212" alt="krish-tiwari212" /></a> </p>
 <img align="right" src="https://i.imgur.com/1uYroRF.gif" style="margin-bottom: 15rem" alt="coding" />
 
-- 🔭 I’m currently working on [Jivan Health](https://jivanhealth.in/)
-
 - 🌱 I’m currently learning **WebRTC**
 
 - 👨‍💻 All of my projects are available at [https://krishtiwari.vercel.app/](https://krishtiwari.vercel.app/)
 
-- 💬 Ask me about **react, next, gsap, flask, tailwind, express, fastapi**
+- 💬 Ask me about **React.js, Next.js, GSAP, Flask, Tailwind, Express, FastAPI, SvelteKIT, Prisma, Langchain etc.**
 
 - 📫 How to reach me **krishtiwari2122@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AErwhAIicSi22zNrgfNvNTnM82tRDqSh/view?usp=sharing](https://drive.google.com/file/d/1AErwhAIicSi22zNrgfNvNTnM82tRDqSh/view?usp=sharing)
-
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/krish-tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krish-tiwari" height="30" width="40" /></a>
