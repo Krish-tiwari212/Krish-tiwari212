@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **WebRTC**
 
-- 👨‍💻 All of my projects are available at [https://krishtiwari.vercel.app/](https://krishtiwari.vercel.app/)
-
 - 💬 Ask me about **React.js, Next.js, GSAP, Flask, Tailwind, Express, FastAPI, SvelteKIT, Prisma, Langchain etc.**
 
 - 📫 How to reach me **krishtiwari2122@gmail.com**
